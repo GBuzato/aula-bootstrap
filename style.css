@@ -11,3 +11,19 @@
 .logo {
     margin-left: 20px
 }
+.marginn {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros {
+    background-color: #F6CED8;
+}
+.borda {
+    border-radius: 20px;
+}
+.servicos {
+    background-color: #BDBDBD;
+}
+.bg-footer {
+    background-color: #F6CED8;
+}
